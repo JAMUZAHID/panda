@@ -1,0 +1,74 @@
+.orange-bg{
+    background-color: #fceae8;
+   border-radius: 20px;
+    margin-top: 50px;
+}
+.btn{
+  background-color: linear-gradient(to top rgb(204, 123, 137) to rgb(167, 18, 43));
+}
+.btn a{ 
+    text-decoration: none;
+    color: rgb(11, 11, 161);
+}
+.carousel-item{
+   padding: 20px 40px;
+}
+.prices{
+    color: rgb(248, 61, 92);
+}
+
+.cat1{
+    background-color: orange;
+    border-radius: 20px;
+    margin-top: 40px;
+    padding: 20px 40px;
+}
+.cat2{
+    background-color: orchid;
+    border-radius: 20px;
+    margin-top: 40px;
+    padding: 20px 40px;
+}
+.cat3{
+    background-color: blue;
+    border-radius: 20px;
+    margin-top: 40px;
+    padding: 20px 40px;
+}
+.catagouries h1{
+    color: white;
+}
+.catagouries img{
+    width: 100px;
+}
+.cards{ 
+    margin-top: 20px;
+}
+.card.h-100{
+    border: none;
+    box-shadow: 2px 3px 10px rgb(226, 206, 206), -2px -2px 10px;
+    border-radius: 20px;
+}
+.bags{
+    margin-top: 50px;
+}
+#subscribe{
+    height: 300px;
+    margin-top: 50px;
+    width: auto;
+}
+.input{
+    border: none;
+    box-shadow: 2px 2px 4px;
+    padding: 10px 20px;
+    
+    border-radius: 10px;
+}
+.btn-2{
+    margin-left: px;
+    box-shadow: 2px 2px 4px;
+}
+footer {
+    margin-top: 100px ;
+   text-align: center;
+}
